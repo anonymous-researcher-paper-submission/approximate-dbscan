@@ -1,0 +1,5 @@
+{
+    "minPts": 3,
+    "epsilon": 50,
+    "successRate": 0.999999
+}
